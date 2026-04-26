@@ -31,3 +31,12 @@ The model was trained and evaluated using the following metrics:
 Mean Absolute Error (MAE):[MAE Score]
 Root Mean Squared Error (RMSE):[RMSE Score]
 R-squared:** [R-squared Score]
+
+
+
+
+<img width="1919" height="794" alt="image" src="https://github.com/user-attachments/assets/b8e7e3f5-d8c0-4eb9-8684-8945e064612e" />
+
+
+
+
