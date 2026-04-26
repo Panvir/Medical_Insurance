@@ -33,6 +33,41 @@ Users can adjust the following inputs:
 
 The app instantly displays the predicted insurance cost and related model metrics.
 
+## Data Visualization (Tableau)
+
+To better understand the dataset before model building, I performed exploratory data analysis using Tableau.
+
+### 1. BMI vs Insurance Charges
+
+#### BMI vs Charges
+
+![alt text](image.png)
+
+- This scatter plot shows the relationship between BMI and insurance charges.
+- A slight positive trend can be observed — higher BMI often leads to higher costs.
+- Data points are colored based on smoking status to highlight impact differences.
+
+---
+
+### 2. Smoker vs Insurance Charges
+
+#### Smoker vs Charges
+
+![alt text](image-1.png)
+
+- This bar chart compares average insurance charges between smokers and non-smokers.
+- Smokers have significantly higher charges compared to non-smokers.
+- This indicates smoking is one of the strongest factors affecting insurance cost.
+
+---
+
+### Key Insights
+
+- Smoking status has the highest impact on insurance pricing.
+- BMI and age also show a positive correlation with charges.
+- Visualization helped in understanding feature importance before training the model.
+
+
 ## Dataset
 
 The dataset used in this project contains individual insurance records and medical insurance charges.
